@@ -1,5 +1,10 @@
 # Softwares
 
+## Git
+
+- `sudo apt install git`
+- Verify with `git --version`
+
 ## Node and NPM
 
 - [Installing via nvm](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04#option-3-installing-node-using-the-node-version-manager)
